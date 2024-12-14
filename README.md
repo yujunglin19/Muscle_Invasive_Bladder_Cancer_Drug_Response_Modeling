@@ -1,4 +1,8 @@
-# Muscle-Invasive Bladder Cancer Drug_Response Modeling
+# Muscle-Invasive Bladder Cancer Drug Response Modeling
+
+This repository contains the report and code for Muscle-Invasive Bladder Cancer Drug Response Modeling by Akshat Chaudhari, Nouha Tiyal, and Yujung Lin
+
+## Abstract
 
 This project investigates the application of expansion pathology microscopy (Ex-
 Path) images , a novel high-resolution imaging technique, for advancing cancer
